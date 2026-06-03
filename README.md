@@ -1,87 +1,70 @@
-# 🚀 CodSoft Python Programming Internship
+# 🐍 CODSOFT Python Programming Internship
 
-This repository contains all the tasks completed as part of the CodSoft Python Programming Internship. 
-Each application is built with a focus on interactive terminal environments, smooth logic flows, and robust user input handling.
+A collection of Python projects developed as part of the Python Programming Internship at CODSOFT.
 
-📌 **Note:** This project was developed for the successful completion of my Python Programming Internship at **CodSoft**. 🚀
+This repository contains three Python projects that demonstrate fundamental programming concepts such as user input handling, conditional statements, loops, functions, string manipulation, randomization, and data management.
 
-> ⚠️ Note: All inputs, options, generated passwords, game results, and metrics used in these projects are completely dummy/demo data created only for learning and educational purposes. Please do not misuse any information shown in this repository.
-
----
-
-# 📌 Completed Tasks
-
-🧮 Task 2: Calculator
-Design a simple calculator with basic arithmetic operations. Prompt the user to input two numbers and an operation choice, performing the calculation and displaying the result.
-🔹 **Concepts:** functions, loops, error handling, execution pacing (`time` module)
-📁 **Folder:** `Calculator/`
+📌 Note: This repository was created for educational and learning purposes as part of the CODSOFT Python Programming Internship.
 
 ---
 
-🔐 Task 3: Password Generator
-A tool that generates strong and random passwords. It allows users to specify the length and complexity of the password using a combination of random characters.
-🔹 **Concepts:** strings, random module, conditional evaluations, user input validation
-📁 **Folder:** `Password Generator/`
+# 🚀 Projects Included
+
+## 🧮 Calculator
+
+A simple command-line calculator that performs basic arithmetic operations.
+
+### Features
+
+* ➕ Addition
+* ➖ Subtraction
+* ✖️ Multiplication
+* ➗ Division
+* ⚠️ Division by Zero Handling
+* 🔄 Multiple Calculations Support
 
 ---
 
-🎮 Task 4: Rock-Paper-Scissors Game
-An interactive terminal game where the user chooses rock, paper, or scissors against a randomized computer selection with built-in score tracking.
-🔹 **Concepts:** loops, dictionaries, win-loss game logic, tournament scoring
-📁 **Folder:** `Rock Paper Scissor Game/`
+## 🔐 Password Generator
+
+A Python application that generates strong and random passwords.
+
+### Features
+
+* 🔢 Custom Password Length
+* 🔠 Uppercase & Lowercase Letters
+* 🔣 Special Characters
+* 🔐 Secure Random Password Generation
 
 ---
 
-# ▶️ How to Run
+## 📒 Contact Book
 
-1. Clone this repository:
-```bash
-git clone [https://github.com/OmkarPai2007/CODSOFT.git](https://github.com/OmkarPai2007/CODSOFT.git)
-```
+A contact management system for storing and organizing contacts.
 
-2. Navigate to any project folder:
-```bash
-cd "Rock Paper Scissor Game"
-```
+### Features
 
-3. Run the Python file:
-```Bash
-python rock_paper_scissor.py
-```
+* ➕ Add Contact
+* 📋 View Contacts
+* 🔍 Search Contact
+* ✏️ Update Contact
+* ❌ Delete Contact
+* 📞 Store Contact Details
 
 ---
-
-# ✨ Features Across Tasks
-
-## 💻 UI/UX & Formatting Features
-
-- ✨ Custom ASCII art banners and operational section layouts
-- 🎨 Color-coded outputs using ANSI terminal styling strings
-- ⚡ Artificial processing pacing using time sleep synchronization delays
-- 🔄 Continuous terminal run loops allowing sessions without script restarts
-
----
-
-## 🛡️ Robust Logic & Data Handling
-
-- 🗂️ Input validation algorithms protecting scripts from runtime string-to-float crashes
-- 🧱 Safety parameters verifying zero-division exceptions dynamically
-- 📊 Stateful scoreboard dictionary tracking user records, computer records, and ties
-- 🔐 Entropy space selectors combining variable character collections randomly
-
-  ---
 
 # 🛠️ Tech Stack
 
-- 🐍 Python 3.x
-- 🎲 Random Module
-- 🔤 String Constants Library
-- ⏳ Time Synchronization API
-- 🛠️ Git & GitHub Version Control Systems
+* Python 3
+* Random Module
+* String Module
+* Lists
+* Dictionaries
+* Functions
 
 ---
 
-# 📁 Folder Structure
+# 📂 Folder Structure
 
 ```bash
 CODSOFT/
@@ -90,22 +73,44 @@ CODSOFT/
 │   ├── calculator.py
 │   └── README.md
 │
-├── Password Generator/
+├── Password_Generator/
 │   ├── password_generator.py
 │   └── README.md
 │
-└── Rock Paper Scissor Game/
-    ├── rock_paper_scissor.py
-    └── README.md
+├── Contact_Book/
+│   ├── contact_book.py
+│   └── README.md
+│
+└── README.md
+```
+
+---
+
+# 🚀 How To Run
+
+### Clone Repository
+
+```bash
+git clone https://github.com/your-github-username/CODSOFT.git
+```
+
+### Run Any Project
+
+```bash
+python filename.py
 ```
 
 ---
 
 # 👨‍💻 Author
 
-Omkar Pai
+Your Name
 
-- 💻 GitHub: https://github.com/OmkarPai2007
-- 💼 LinkedIn: https://www.linkedin.com/in/omkar-pai-96b158372
+* GitHub: https://github.com/your-github-username
+* LinkedIn: https://linkedin.com/in/your-profile
 
 ---
+
+# 📜 Internship Information
+
+These projects were completed as part of the CODSOFT Python Programming Internship, where interns are required to complete at least three programming tasks successfully.
