@@ -83,6 +83,7 @@ python rock_paper_scissor.py
 
 # 📁 Folder Structure
 
+```bash
 CODSOFT/
 │
 ├── Calculator/
