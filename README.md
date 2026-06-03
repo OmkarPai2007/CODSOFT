@@ -1,10 +1,10 @@
 # 🐍 CODSOFT Python Programming Internship
 
-A collection of Python projects developed as part of the Python Programming Internship at CODSOFT.
+A collection of Python projects developed as part of the CODSOFT Python Programming Internship.
 
-This repository contains three Python projects that demonstrate fundamental programming concepts such as user input handling, conditional statements, loops, functions, string manipulation, randomization, and data management.
+This repository contains three beginner-friendly Python projects that demonstrate core programming concepts such as user input handling, conditional statements, loops, randomization, and game logic.
 
-📌 Note: This repository was created for educational and learning purposes as part of the CODSOFT Python Programming Internship.
+📌 Note: These projects were created for educational and learning purposes during the CODSOFT Python Programming Internship.
 
 ---
 
@@ -31,25 +31,24 @@ A Python application that generates strong and random passwords.
 
 ### Features
 
-* 🔢 Custom Password Length
+* 🔢 User Defined Password Length
 * 🔠 Uppercase & Lowercase Letters
-* 🔣 Special Characters
-* 🔐 Secure Random Password Generation
+* 🔣 Numbers & Special Characters
+* 🔐 Secure Password Generation
 
 ---
 
-## 📒 Contact Book
+## ✂️🪨📄 Rock-Paper-Scissors Game
 
-A contact management system for storing and organizing contacts.
+A classic Rock-Paper-Scissors game where users play against the computer.
 
 ### Features
 
-* ➕ Add Contact
-* 📋 View Contacts
-* 🔍 Search Contact
-* ✏️ Update Contact
-* ❌ Delete Contact
-* 📞 Store Contact Details
+* 🎮 User vs Computer Gameplay
+* 🎲 Random Computer Choice
+* 🏆 Win/Lose/Draw Detection
+* 🔄 Play Multiple Rounds
+* 📊 Score Tracking
 
 ---
 
@@ -58,9 +57,6 @@ A contact management system for storing and organizing contacts.
 * Python 3
 * Random Module
 * String Module
-* Lists
-* Dictionaries
-* Functions
 
 ---
 
@@ -77,8 +73,8 @@ CODSOFT/
 │   ├── password_generator.py
 │   └── README.md
 │
-├── Contact_Book/
-│   ├── contact_book.py
+├── Rock_Paper_Scissors/
+│   ├── rock_paper_scissors.py
 │   └── README.md
 │
 └── README.md
@@ -86,12 +82,12 @@ CODSOFT/
 
 ---
 
-# 🚀 How To Run
+# 🚀 Getting Started
 
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-github-username/CODSOFT.git
+git clone https://github.com/your-username/CODSOFT.git
 ```
 
 ### Run Any Project
@@ -104,13 +100,15 @@ python filename.py
 
 # 👨‍💻 Author
 
-Your Name
+Omkar Pai
 
-* GitHub: https://github.com/your-github-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/OmkarPai2007
+* LinkedIn: https://www.linkedin.com/in/omkar-pai-96b158372
 
 ---
 
 # 📜 Internship Information
 
-These projects were completed as part of the CODSOFT Python Programming Internship, where interns are required to complete at least three programming tasks successfully.
+These projects were completed as part of the CODSOFT Python Programming Internship Program.
+
+---
