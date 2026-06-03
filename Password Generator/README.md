@@ -58,5 +58,7 @@ A@7f#9Kd!2Lm
 
 Omkar Pai
 
-GitHub: https://github.com/OmkarPai2007
-LinkedIn: https://www.linkedin.com/in/omkar-pai-96b158372
+- 💻 GitHub: https://github.com/OmkarPai2007
+- 💼 LinkedIn: https://www.linkedin.com/in/omkar-pai-96b158372
+
+---
